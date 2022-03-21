@@ -2,6 +2,12 @@
   "name": "modal-gl-component",
   "version": "0.1.0",
   "private": false,
+  "author": "guillaume lajoux",
+  "description": "modale",
+  "keywords": [
+    "modal",
+    "modale"
+  ],
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "@testing-library/jest-dom": "^5.16.2",
